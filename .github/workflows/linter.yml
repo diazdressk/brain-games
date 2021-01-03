@@ -1,24 +1,11 @@
-# Name of workflow
 name: linter
 
-# Trigger the workflow on push or pull request
-on:
-  - push
-  - pull_request
+on: push
 
 jobs:
-  build:
-
-    # The type of machine to run the job on
+  super-lint:
     runs-on: ubuntu-latest
-
-    strategy:
-      # Node versions list
-      matrix:
-        node-version: [14.x]
-
     steps:
-      - name: Run linter
-        # Run Linter
-        run: |
-          make lint
+      - uses: actions/checkout@v2
+      - run: make install
+      - run: make lint
