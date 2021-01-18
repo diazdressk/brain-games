@@ -11,3 +11,6 @@ brain-even:
 
 brain-calc:
 [![asciicast](https://asciinema.org/a/385166.svg)](https://asciinema.org/a/385166)
+
+brain-gcd:
+[![asciicast](https://asciinema.org/a/385167.svg)](https://asciinema.org/a/385167)
