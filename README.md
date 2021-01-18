@@ -7,12 +7,15 @@ Brain-games
 [![linter](https://github.com/diazdressk/frontend-project-lvl1/workflows/linter/badge.svg)](https://github.com/diazdressk/frontend-project-lvl1/actions)
 
 brain-even:
+
 [![asciicast](https://asciinema.org/a/385165.svg)](https://asciinema.org/a/385165)
 
 brain-calc:
+
 [![asciicast](https://asciinema.org/a/385166.svg)](https://asciinema.org/a/385166)
 
 brain-gcd:
+
 [![asciicast](https://asciinema.org/a/385167.svg)](https://asciinema.org/a/385167)
 
 brain-progression:
