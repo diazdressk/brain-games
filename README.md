@@ -6,4 +6,4 @@ Brain-games
 
 [![linter](https://github.com/diazdressk/frontend-project-lvl1/workflows/linter/badge.svg)](https://github.com/diazdressk/frontend-project-lvl1/actions)
 
-brain-even: https://asciinema.org/a/2hioYB3tREywX40LJsQpaIQPc
+brain-even: https://asciinema.org/a/385165
