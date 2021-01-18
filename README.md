@@ -9,3 +9,5 @@ Brain-games
 brain-even:
 [![asciicast](https://asciinema.org/a/385165.svg)](https://asciinema.org/a/385165)
 
+brain-calc:
+[![asciicast](https://asciinema.org/a/385166.svg)](https://asciinema.org/a/385166)
